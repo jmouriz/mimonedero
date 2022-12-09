@@ -15,4 +15,5 @@
 *.manifest linguist-detectable=false
 *.entitlements linguist-detectable=false
 *.xc* linguist-detectable=false
+*.Podfile linguist-detectable=false
 CMakeLists.txt linguist-detectable=false
